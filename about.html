@@ -95,7 +95,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./budget.html" aria-current="page"> 
+    <a class="nav-link active" href="./about.html" aria-current="page"> 
 <span class="menu-text">Budget</span></a>
   </li>  
 </ul>
@@ -164,33 +164,21 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="odd">
 <td>11” Softballs</td>
-<td>£60.00 - £75.00</td>
+<td>£68.25</td>
 <td>1 (Box of 12 balls)</td>
-<td>£60.00 - £75.00</td>
+<td>£68.25</td>
 </tr>
 <tr class="even">
 <td>12” Softballs</td>
-<td>£60.00 - £75.00</td>
+<td>£68.25</td>
 <td>1 (Box of 12 balls)</td>
-<td>£60.00 - £75.00</td>
+<td>£68.25</td>
 </tr>
 <tr class="odd">
 <td>Umpire fees</td>
-<td>£20.00 - £28.00</td>
+<td>£22.50</td>
 <td>12 (Games)</td>
-<td>£240.00 - £336.00</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><strong>Already Spent</strong></td>
-<td></td>
-<td></td>
-<td></td>
+<td>£270.00</td>
 </tr>
 <tr class="even">
 <td>Kitbag</td>
@@ -244,7 +232,7 @@ ul.task-list li input[type="checkbox"] {
 <td></td>
 <td></td>
 <td><strong>Total</strong></td>
-<td><strong>£1,365.44 - £1,991.44</strong></td>
+<td><strong>£1,491.94</strong></td>
 </tr>
 </tbody>
 </table>
@@ -325,7 +313,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/gloveisland\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
