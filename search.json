@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "budget.html",
+    "href": "budget.html",
+    "title": "Budget",
     "section": "",
-    "text": "About this site"
+    "text": "Item\nUnit Cost\nQuantity\nTotal Cost\n\n\n\n\nRegistration\n£0.00\n1 (Team)\n£0.00\n\n\nHome Pitch Fees\n£50.00 - £100.00\n~10 (Games)\n£500.00 - £1000.00\n\n\n11” Softballs\n£68.25\n1 (Box of 12 balls)\n£68.25\n\n\n12” Softballs\n£68.25\n1 (Box of 12 balls)\n£68.25\n\n\nUmpire fees\n£22.50\n12 (Games)\n£270.00\n\n\nKitbag\n£40.00\n1 (Bag)\n£40.00\n\n\nBats\n£120.00\n2 (Bat)\n£240.00\n\n\nGrips for 2 bats\n£17.00\n2 (Grip)\n£34.00\n\n\nAmy’s birthday gifts\n£35.00\n1\n£35.00\n\n\nNet\n£60.00\n1\n£60.00\n\n\nBases\n£20.00\n1\n£20.00\n\n\nCarry bag\n£38.99\n1\n£38.99\n\n\nTee\n£37.45\n1\n£37.45\n\n\n\n\nTotal\n£1,491.94"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Glove Island",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Item\nUnit Cost\nQuantity\nTotal Cost\n\n\n\n\nRegistration\n£0.00\n1 (Team)\n£0.00\n\n\nHome Pitch Fees\n£50.00 - £100.00\n~10 (Games)\n£500.00 - £1000.00\n\n\n11” Softballs\n£68.25\n1 (Box of 12 balls)\n£68.25\n\n\n12” Softballs\n£68.25\n1 (Box of 12 balls)\n£68.25\n\n\nUmpire fees\n£22.50\n12 (Games)\n£270.00\n\n\nKitbag\n£40.00\n1 (Bag)\n£40.00\n\n\nBats\n£120.00\n2 (Bat)\n£240.00\n\n\nGrips for 2 bats\n£17.00\n2 (Grip)\n£34.00\n\n\nAmy’s birthday gifts\n£35.00\n1\n£35.00\n\n\nNet\n£60.00\n1\n£60.00\n\n\nBases\n£20.00\n1\n£20.00\n\n\nCarry bag\n£38.99\n1\n£38.99\n\n\nTee\n£37.45\n1\n£37.45\n\n\n\n\nTotal\n£1,491.94"
+  },
+  {
+    "objectID": "index.html#budget",
+    "href": "index.html#budget",
+    "title": "Glove Island",
+    "section": "",
+    "text": "Item\nUnit Cost\nQuantity\nTotal Cost\n\n\n\n\nRegistration\n£0.00\n1 (Team)\n£0.00\n\n\nHome Pitch Fees\n£50.00 - £100.00\n~10 (Games)\n£500.00 - £1000.00\n\n\n11” Softballs\n£68.25\n1 (Box of 12 balls)\n£68.25\n\n\n12” Softballs\n£68.25\n1 (Box of 12 balls)\n£68.25\n\n\nUmpire fees\n£22.50\n12 (Games)\n£270.00\n\n\nKitbag\n£40.00\n1 (Bag)\n£40.00\n\n\nBats\n£120.00\n2 (Bat)\n£240.00\n\n\nGrips for 2 bats\n£17.00\n2 (Grip)\n£34.00\n\n\nAmy’s birthday gifts\n£35.00\n1\n£35.00\n\n\nNet\n£60.00\n1\n£60.00\n\n\nBases\n£20.00\n1\n£20.00\n\n\nCarry bag\n£38.99\n1\n£38.99\n\n\nTee\n£37.45\n1\n£37.45\n\n\n\n\nTotal\n£1,491.94"
   }
 ]
