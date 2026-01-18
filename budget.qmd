@@ -1,8 +1,7 @@
 ---
-title: "Glove Island"
+title: "Budget"
 ---
 
-## Budget
 
 | Item | Unit Cost | Quantity | Total Cost |
 |------|-----------|----------|-----------|
@@ -20,4 +19,3 @@ title: "Glove Island"
 | Carry bag | £38.99 | 1 | £38.99 |
 | Tee | £37.45 | 1 | £37.45 |
 | | | **Total** | **£1,491.94** |
-
