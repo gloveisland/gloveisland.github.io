@@ -7,9 +7,11 @@ title: "Budget"
 |------|-----------|----------|-----------|
 | Registration | £0.00 | 1 (Team) | £0.00 |
 | Home Pitch Fees | £50.00 - £100.00 | ~10 (Games) | £500.00 - £1000.00 |
-| 11" Softballs | £68.25 | 1 (Box of 12 balls) | £68.25 |
-| 12" Softballs | £68.25 | 1 (Box of 12 balls) | £68.25 |
-| Umpire fees | £22.50 | 12 (Games) | £270.00 |
+| 11" Softballs | £60.00 - £75.00 | 1 (Box of 12 balls) | £60.00 - £75.00 |
+| 12" Softballs | £60.00 - £75.00 | 1 (Box of 12 balls) | £60.00 - £75.00 |
+| Umpire fees | £20.00 - £28.00 | 12 (Games) | £240.00 - £336.00 |
+| | | | |
+| **Already Spent** | | | |
 | Kitbag | £40.00 | 1 (Bag) | £40.00 |
 | Bats | £120.00 | 2 (Bat) | £240.00 |
 | Grips for 2 bats | £17.00 | 2 (Grip) | £34.00 |
@@ -18,4 +20,4 @@ title: "Budget"
 | Bases | £20.00 | 1 | £20.00 |
 | Carry bag | £38.99 | 1 | £38.99 |
 | Tee | £37.45 | 1 | £37.45 |
-| | | **Total** | **£1,491.94** |
+| | | **Total** | **£1,365.44 - £1,991.44** |
