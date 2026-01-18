@@ -2,22 +2,4 @@
 title: "Glove Island"
 ---
 
-## Budget
-
-| Item | Unit Cost | Quantity | Total Cost |
-|------|-----------|----------|-----------|
-| Registration | £0.00 | 1 (Team) | £0.00 |
-| Home Pitch Fees | £50.00 - £100.00 | ~10 (Games) | £500.00 - £1000.00 |
-| 11" Softballs | £68.25 | 1 (Box of 12 balls) | £68.25 |
-| 12" Softballs | £68.25 | 1 (Box of 12 balls) | £68.25 |
-| Umpire fees | £22.50 | 12 (Games) | £270.00 |
-| Kitbag | £40.00 | 1 (Bag) | £40.00 |
-| Bats | £120.00 | 2 (Bat) | £240.00 |
-| Grips for 2 bats | £17.00 | 2 (Grip) | £34.00 |
-| Amy's birthday gifts | £35.00 | 1 | £35.00 |
-| Net | £60.00 | 1 | £60.00 |
-| Bases | £20.00 | 1 | £20.00 |
-| Carry bag | £38.99 | 1 | £38.99 |
-| Tee | £37.45 | 1 | £37.45 |
-| | | **Total** | **£1,491.94** |
-
+A hot new bombshell has entered London Softball League 😉🏝️🍹
